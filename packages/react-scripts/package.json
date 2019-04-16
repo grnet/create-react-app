@@ -1,7 +1,7 @@
 {
-  "name": "react-scripts",
+  "name": "stargen-react-scripts",
   "version": "2.1.8",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Modified version of react-scripts to support GRNET's react projects workflows.",
   "repository": "facebook/create-react-app",
   "license": "MIT",
   "engines": {
